@@ -35,7 +35,6 @@ body{
   to{ opacity:1; }
 }
 
-/* NOVAS CLASSES DE CORES */
 .amar{
   background: linear-gradient(45deg, red, #ffb6c1);
   -webkit-background-clip: text;
@@ -44,7 +43,7 @@ body{
 }
 
 .paraiso{
-  color: #ffff99; /* amarelo claro */
+  color: #ffff99;
   font-weight:bold;
   text-shadow: 0 0 5px #ffffcc;
 }
@@ -68,7 +67,6 @@ body{
   text-shadow: 0 0 5px #f0f0f0;
 }
 
-/* EFEITOS EXISTENTES */
 .fogo{
   color:#ff3b00;
   text-shadow:0 0 5px #ff3b00,0 0 10px #ff6600,0 0 15px #ff9900;
